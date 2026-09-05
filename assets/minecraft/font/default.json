@@ -3,7 +3,7 @@
     {
       "type": "bitmap",
       "file": "cssword:gui/custom_menu.png",
-      "ascent": 14,
+      "ascent": 28,
       "height": 220,
       "chars": [
         "\uE001"
